@@ -5,7 +5,7 @@ const template =`
 
 Implements [GitHub Flavored Markdown](https://github.github.com/gfm/)
 
-I have {{kids.length}} kids.
+I <em>have</em> {{kids.length}} kids.
 ### My Kids:
 {{#kids}}
   * {{name}} is {{age}}
