@@ -2,7 +2,7 @@
   "name": "contracts",
   "version": "0.1.0",
   "private": false,
-  "homepage": ".",
+  "homepage": "/",
   "dependencies": {
     "gh-pages": "^1.1.0",
     "handlebars": "^4.0.11",
