@@ -1,0 +1,14 @@
+{
+  "name": "Data",
+  "employer": "United Federation of Planets",
+  "kids": [
+    {
+      "name": "Lal",
+      "age": "2"
+    },
+    {
+      "name": "Jane",
+      "age": "5"
+    }
+  ]
+}
