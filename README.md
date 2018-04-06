@@ -1,5 +1,7 @@
 ## A demo of a Ricardian contract.
 
+[Demo]( https://uxlayouts.github.io/contracts/)
+
 ### Made with:
 * Create-React-App
 * Handlebars
